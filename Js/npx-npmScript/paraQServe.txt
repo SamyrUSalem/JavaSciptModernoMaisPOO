@@ -1,0 +1,5 @@
+O NPX serve para executar os pacotes que são instalados, atráves de linhas de comandos.
+
+Não são todos os pacotes q podem fazer isso, é necessário ler as documentações deles
+
+Além disso, dentro do arquivo package.json é possível criar scripts, n vai ser necessário ficar colocando ex: npx hello-world-npm, toda vez para executar é só criar um script e depois inserir o comando "npm run nomedoscript", e também é possível criar um que executa arquivos js
