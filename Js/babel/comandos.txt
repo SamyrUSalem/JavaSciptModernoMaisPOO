@@ -1,0 +1,2 @@
+npx babel src --out-dir dist --presets=@babel/preset-env //Esse comando compilara todos os arquivos js q estarão dentro do diretorio src, e irá criar uma  nvoa pasta chamada dist, com todos os arquivos compilados de maneira q os navegadores q não aceitam javascript moderno entendam.
+
