@@ -18,7 +18,7 @@ const firtsLetterP = towns.filter(p => p[0] === "P")
 
 console.log(firtsLetterP)
 
-//Esse é o operador sprats, ele espalha os elementos de todos os componentes iteraveis como um array, usando os 3 pontos e o nome do elemento, ele irá pegar os valores q tem dentro dele e separar, ex: const test = [n1, n2]/  const t1 = [...test] os valores do test serão enviados para o t1, separados se  fossem strings ficaria = n 1 n 2.
+//Esse é o operador sprats, ele espalha os elementos de todos os componentes iteraveis como um array, usando os 3 pontos e o nome do elemento, ele irá pegar os valores q tem dentro dele e separar, ex: const test = [n1, n2]/  const t1 = [...test] os valores do test serão enviados para o t1 separados se fossem strings ficaria = n 1 n 2.
 
 //Uma utilidade dele, seria o exemplo abaixo q no caso é realizar uma cópia de um array, pois podemos coletar os dados de um e passar para outro, podemos passar vários parâmetros de um elemento de uma vez só
 const townsCopy = [...towns]
