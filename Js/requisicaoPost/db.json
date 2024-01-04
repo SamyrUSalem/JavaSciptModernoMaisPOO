@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "title": "Teste",
+      "author": "Test",
+      "content": "Ola",
+      "id": 3
+    },
+    {
+      "title": "ss",
+      "author": "ss",
+      "content": "ss",
+      "id": 4
+    },
+    {
+      "title": "XXX",
+      "author": "XX",
+      "content": "XX",
+      "id": 5
+    },
+    {
+      "title": "S",
+      "author": "S",
+      "content": "S",
+      "id": 6
+    }
+  ]
+}
